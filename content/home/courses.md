@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Conheça nossos cursos
+title: Conheça nossas turmas
 subtitle:
 content:
   filters:
@@ -19,9 +19,9 @@ content:
     - name: Todos
       tag: '*'
     - name: Público Geral
-      tag: geral
+      tag: publico-geral
     - name: In Company
-      tag: company
+      tag: in-company
 design:
   columns: '1'
   view: masonry

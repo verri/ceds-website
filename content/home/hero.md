@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Curso de Especialização em Data Science
-hero_media: teacher.png
+hero_media: ita.png
 design:
   background:
     gradient_angle: 0
