@@ -50,7 +50,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  authors: '/professor/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
 disableAliases: true
