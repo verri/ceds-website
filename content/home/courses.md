@@ -7,7 +7,7 @@ subtitle:
 content:
   filters:
     folders:
-      - course
+      - turma
     kinds:
       - section
     exclude_tags:
@@ -16,12 +16,12 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Todos
       tag: '*'
-    - name: Previous
-      tag: previous
-    - name: Current
-      tag: current
+    - name: Público Geral
+      tag: geral
+    - name: In Company
+      tag: company
 design:
   columns: '1'
   view: masonry

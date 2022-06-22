@@ -1,11 +1,13 @@
 ---
 title: IBAPE-PR
-summary: .
-date: '2021-01-24'
+summary: Inscrições abertas para o público geral!
+date: '2022-05-01'
 type: book
 tags:
   - geral
 ---
+
+**Inscrições abertas.**
 
 {{< figure src="featured.jpg" >}}
 
