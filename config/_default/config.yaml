@@ -12,7 +12,7 @@ baseURL: 'https://ceds.ita.br/novo/' # Website URL
 
 cascade:
   - _target:
-      path: /course/**
+      path: /turma/**
     editable: true
     show_breadcrumb: true
   # Blog post folder options
