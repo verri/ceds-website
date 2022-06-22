@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Online Courses' # Website name
+title: 'Curso de Especialização em Data Science' # Website name
 baseURL: 'https://ceds.ita.br/novo/' # Website URL
 
 ############################
@@ -11,7 +11,6 @@ baseURL: 'https://ceds.ita.br/novo/' # Website URL
 ############################
 
 cascade:
-  # Docs folder options
   - _target:
       path: /course/**
     editable: true
@@ -25,7 +24,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
