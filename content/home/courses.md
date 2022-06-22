@@ -19,9 +19,9 @@ content:
     - name: Todos
       tag: '*'
     - name: Público Geral
-      tag: publico-geral
+      tag: Público Geral
     - name: In Company
-      tag: in-company
+      tag: In Company
 design:
   columns: '1'
   view: masonry

@@ -1,5 +1,5 @@
 ---
-title: Filipe A. N. Verri
+title: Filipe Verri
 superuser: false
 role: Doutor em Computação pela Universidade de São Paulo
 interests:
