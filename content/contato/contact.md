@@ -36,4 +36,6 @@ design:
   columns: '2'
 ---
 
-Entre em contato conosco. Secretária Thaís Ramim.
+Entre em contato conosco.
+
+Secretária: Thaís Ramim.

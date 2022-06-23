@@ -7,7 +7,7 @@ feature:
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Corpo Docente
-    description: Composto por professores do ITA com apoio dos alunos do ITA
+    description: Aulas lecionadas pelos professores doutores do ITA
   - icon: graduation-cap
     icon_pack: fas
     name: Diploma
