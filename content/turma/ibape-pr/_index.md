@@ -1,5 +1,5 @@
 ---
-title: IBAPE-PR
+title: Turma 2022
 summary: Inscrições abertas para o público geral!
 date: '2022-05-01'
 type: book
@@ -8,9 +8,10 @@ tags:
 ---
 
 {{% callout warning %}}
-Inscrições abertas, clique [aqui](#)!
+Inscrições abertas até 01/08, clique [aqui](https://forms.gle/Z8ftmqemEuZcUeWr8)!
 {{% /callout %}}
 
+Oferecida em parceria com:
 {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
@@ -20,46 +21,50 @@ de Aeronáutica (ITA) e o Instituto Brasileiro de Avaliações e Perícias de
 Engenharia do Paraná (IBAPE-PR) oferecem a primeira turma do **Curso de
 Especialização em Data Science** aberta para o público geral.
 
-# Proposta Geral
+O curso é oferecido **à distância** com aulas **on-line ao vivo**.
 
-Capacitar profissionais através de um programa de formação de recursos humanos
-na área de Ciência de Dados.
+## Público Alvo
 
-# Público Alvo
+Recomendável para profissionais graduados em **Engenharia**, **Computação** e afins.
 
-Recomendável para profissionais graduados em áreas relacionadas à Ciências
-Exatas e afins. Também é direcionado para empresários, diretores, gerentes,
-gestores e demais lideranças devido ao caráter atual e inovador. Inclui também
-profissionais da área acadêmica que procuram capacitação na área de ciência de
-dados com conhecimentos de estatística, cálculo e programação.
+## Processo Seletivo
 
-# Processo Seletivo
+As inscrições podem ser feitas até 01/08 neste
+[link](https://forms.gle/Z8ftmqemEuZcUeWr8).
 
-O processo seletivo será conduzido pelo coordenador do curso com a participação
-dos professores do programa, através de análise curricular do candidato, prova
-e entrevista.
-
-# Carga Horária Total
+## Carga Horária e Disciplinas
 
 A carga horária total do curso é de 360 horas acrescidas do Trabalho de
-Conclusão de Curso (TCC). O curso tem duração de 24 meses.
+Conclusão de Curso (TCC). O curso tem duração de 24 meses, com as seguintes
+disciplinas:
 
-# Diploma
+1. CEDS-801: Introdução à Ciência de Dados
+2. CEDS-812: Metodologia de Pesquisa em Computação
+3. CEDS-802: Banco de Dados
+4. CEDS-804: Probabilidade e Estatística
+5. CEDS-803: Matemática para Dados
+6. CEDS-805: Análise de Regressão
+7. CEDS-806: Inteligência Artificial
+8. CEDS-807: Aprendizado de Máquina
+9. CEDS-808: Deep Learning
+10. CEDS-810: Análise em Big Data
+11. CEDS-811: Trabalho de Conclusão de Curso (TCC)
 
-Especialista (Lato Sensu) em Data Science pelo ITA reconhecido pelo MEC.
+## Diploma
+
+Especialista (Lato Sensu) em Ciência de Dados emitido pelo ITA e reconhecido
+pelo MEC.
 
 O ITA é uma instituição de ensino superior e pesquisa, se destaca pela sua
 excelência reconhecida internacionalmente.
 
-# Estrutura
+## Horários
 
-As ações, no geral, estão estruturadas em dez disciplinas de conteúdo com 36
-horas cada, totalizando 360 (trezentos e sessenta) horas acrescidas do
-Trabalhos de Conclusão de Curso (TCC).
+Aulas semanais **on-line** e **ao vivo**, duas vezes por semana, das 19:00 às
+22:00 (Horário de Brasília UTC-3), de segunda a quinta-feira. Os dias das aulas
+(segunda e quarta, ou terça e quinta) variam em cada disciplina.
 
-Aulas semanais telepresenciais em tempo real, duas vezes por semana, das 19:00
-às 22:00 (Horário de Brasília UTC-3), podendo variar os dias, conforme
-disciplina, de segunda a quinta-feira.
+## Requisitos
 
 O aluno deve respeitar os seguintes requisitos acadêmicos para a obtenção do grau de Especialização:
 

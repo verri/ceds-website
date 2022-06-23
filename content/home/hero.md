@@ -11,7 +11,7 @@ design:
     gradient_end: '#f8f8f8'
     text_color_light: false
 cta:
-  url: '#courses'
+  url: '/turma/ibape-pr'
   label: Inscrições abertas!
   icon_pack: fas
   icon: user-graduate
