@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'CEDS ITA' # Website name
-baseURL: 'https://ceds.ita.br/novo/' # Website URL
+baseURL: 'https://ceds.ita.br/' # Website URL
 
 ############################
 ## PAGE OPTIONS
