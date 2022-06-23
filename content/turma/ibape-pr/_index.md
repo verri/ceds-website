@@ -72,3 +72,7 @@ O aluno deve respeitar os seguintes requisitos acadêmicos para a obtenção do 
 - Obtenção da nota mínima de 7,5 (sete e meio), em cada disciplina;
 - Concluir com aproveitamento o Trabalho de Conclusão de Curso (TCC), sendo aprovado em Banca Examinadora;
 - Comparecer em, pelo menos, 75% das aulas presenciais de cada disciplina.
+
+## Investimento
+
+Consulte: https://www.ibapepr.org.br/curso-de-especializacao-em-data-science-ceds/
