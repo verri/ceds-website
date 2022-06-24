@@ -21,7 +21,8 @@ de Aeronáutica (ITA) e o Instituto Brasileiro de Avaliações e Perícias de
 Engenharia do Paraná (IBAPE-PR) oferecem o **Curso de
 Especialização em Data Science** pela primeira vez aberto ao público geral.
 
-O curso é oferecido **à distância** com aulas **on-line ao vivo**.
+O curso é oferecido **à distância** com aulas **on-line ao vivo** com início
+das aulas previsto para **12 de setembro de 2022**.
 
 ## Público Alvo
 
