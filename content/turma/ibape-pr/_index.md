@@ -8,7 +8,7 @@ tags:
 ---
 
 {{% callout warning %}}
-Inscrições abertas até 01/08, clique [aqui](https://forms.gle/Z8ftmqemEuZcUeWr8)!
+As inscrições do processo seletivo foram encerradas.
 {{% /callout %}}
 
 Oferecida em parceria com:
