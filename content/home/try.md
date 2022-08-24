@@ -13,7 +13,7 @@ aspectos práticos. O objetivo é capacitar profissionais através de um
 programa de formação de recursos humanos na área de Ciência de Dados.
 
 Seu público-alvo é composto por profissionais graduados que tenham formação
-básica preferencialmente em Ciências Exatas e afins. Também é direcionado para empresários, diretores, gerentes, gestores e demais lideranças com perfil analítico; e profissionais da area acadêmica que procuram capacitação na área.
+básica em Ciências Exatas. Também é direcionado para empresários, diretores, gerentes, gestores e demais lideranças com perfil analítico; e profissionais da area acadêmica que procuram capacitação na área.
 
 ## O ITA
 

@@ -1,5 +1,5 @@
 ---
-title: Turma
+title: Turmas
 type: page
 tags:
   - preface
