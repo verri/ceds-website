@@ -5,8 +5,8 @@ type: book
 weight: 20
 ---
 
-{{< spoiler text="Qual é o diploma que o CEDS oferece?" >}}
-  Os formados pelo CEDS recebem o diploma de Especialista em Data Science (Lato
+{{< spoiler text="Qual é a certificação que o CEDS oferece?" >}}
+  Os formados pelo CEDS recebem o certificado de Especialista em Data Science (Lato
   Sensu) emitido pelo Instituto Tecnológico de Aeronáutica (ITA).
 {{< /spoiler >}}
 

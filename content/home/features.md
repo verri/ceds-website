@@ -10,7 +10,7 @@ feature:
     description: Aulas lecionadas pelos professores doutores do ITA
   - icon: graduation-cap
     icon_pack: fas
-    name: Diploma
+    name: Certificação
     description: Especialista (Lato Sensu) em Ciência de Dados pelo ITA
   - icon: book
     icon_pack: fas

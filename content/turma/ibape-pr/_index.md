@@ -51,7 +51,7 @@ disciplinas:
 10. CEDS-810: Análise em Big Data
 11. CEDS-811: Trabalho de Conclusão de Curso (TCC)
 
-## Diploma
+## Certificação
 
 Especialista (Lato Sensu) em Ciência de Dados emitido pelo ITA e reconhecido
 pelo MEC.
