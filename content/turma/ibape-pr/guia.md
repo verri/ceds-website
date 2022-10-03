@@ -1,11 +1,13 @@
 ---
-title: "Guia de Boas-Vindas"
-date: '2022-11-03'
+title: Guia
+date: '2022-10-03'
 type: book
 weight: 30
 ---
 
-# Seja Bem-Vindo Iteano!
+{{< toc hide_on="xl" >}}
+
+## Seja Bem-Vindo Iteano!
 
 O ITA é um renomado instituto de ensino e pesquisa reconhecido não apenas pela
 sua excelência internacional, mas também por possuir valores diferenciados
@@ -24,7 +26,7 @@ tecnicamente, mas também como pessoa.
 
 Este é o desejo de toda a nossa coordenação.
 
-## Breve histórico do ITA
+### Breve histórico do ITA
 
 O Instituto Tecnológico de Aeronáutica (ITA) é uma instituição superior de
 ensino e pesquisa em Engenharia concebida como parte administrativamente
@@ -41,7 +43,7 @@ reitor do ITA no período de 1946 a 1951.
 O ITA foi formalmente definido pela Lei nº 2.165, somente em 05 de janeiro de
 1954, sancionada pelo presidente Getúlio Vargas.
 
-### Departamento de Ciência e Tecnologia Aeroespacial
+#### Departamento de Ciência e Tecnologia Aeroespacial
 
 Foi concebido inicialmente como Centro Técnico de Aeronáutica (CTA) em 1953, no
 mesmo local que o ITA, por Casimiro Montenegro Filho, então Tenente-coronel
@@ -59,13 +61,13 @@ tornando-se o Comando-Geral de Tecnologia Aeroespacial (CTA). Nova mudança na
 estrutura do COMAER, ocorrida em 2009, criou o atual DCTA, absorvendo o antigo
 CTA e passando a funcionar nas mesmas instalações deste.
 
-### INPE e Embraer
+#### INPE e Embraer
 
 Na adjacência do DCTA, também encontram-se a Embraer, uma das maiores
 indústrias de aviões do mundo, e o Instituto Nacional de Pesquisas Espaciais
 (INPE), um instituto de pesquisa espacial respeitado internacionalmente.
 
-## Ética
+### Ética
 
 A comunidade iteana é conhecida por praticar e difundir um alto padrão ético em
 suas atividades e decisões. Como muitos de nossos alunos se tornam CEOs de
@@ -87,7 +89,7 @@ desburocratiza procedimentos pelo princípio da confiança, os tornando mais
 eficientes; implica em maior proximidade e apoio entre os membros da comunidade
 iteana; e diversos outros benefícios.
 
-## Curso de Especialização em Data Science
+### Curso de Especialização em Data Science
 
 O [Curso de Especialização em Data Science (CEDS)](https://ceds.ita.br/) é um
 curso de especialização Lato Sensu coordenado pela [Divisão de Ciência da
@@ -103,7 +105,7 @@ Desta forma, incentivamos os interessados que conheçam nossos programas:
 (PPG-EEC-I)](http://www.ita.br/posgrad/pgeec) e [Pesquisa Operacional
 (PPG-PO)](http://www.ita.br/posgrad/pgpo).
 
-## Biblioteca
+### Biblioteca
 
 Os alunos do ITA contam com uma infraestrutura e suporte da [Biblioteca do
 ITA](http://www.bibl.ita.br/) para confecção de seu Trabalho de Conclusão de
@@ -114,11 +116,11 @@ Como aluno do ITA você terá direito de acesso à livros, normas e uma série d
 periódicos científicos. Mais informações serão apresentadas no curso oferecido
 pela biblioteca.
 
-# Curso
+## Curso
 
 Abaixo, apresentamos as principais informações do curso.
 
-## Cronograma Previsto
+### Cronograma Previsto
 
 Segue abaixo o cronograma preliminar das atividades da turma CEDS 2022 com
 oferecimento pelo IBAPE-PR.
@@ -154,7 +156,7 @@ Datas relevantes:
 *Atenção*: Mudanças no calendário previsto serão informadas por meio dos canais
 oficiais da Coordenação.
 
-## Horário reservado
+### Horário reservado
 
 Aulas semanais do CEDS são oferecidas no modelo telepresencial em tempo real,
 duas vezes por semana, das 19h às 22h (horário de Brasília - UTC-3), podendo
@@ -163,7 +165,7 @@ variar os dias, conforme disciplina, de segunda a quinta-feira.
 Palestras e reuniões eventuais serão sempre marcado dentro deste período. Deste
 modo, reserve este período em sua agenda.
 
-## Monitores
+### Monitores
 
 No CEDS, cada disciplina conta com um monitor exclusivo para tirar dúvidas
 sobre o conteúdo ensinado e atividades solicitadas, a fim de acelerar
@@ -172,7 +174,7 @@ a aprendizagem do aluno.
 A forma, horário de atendimento e contatos do monitor são apresentados sempre
 na primeira aula.
 
-## Corpo docente
+### Corpo docente
 
 O corpo docente da oferta CEDS Turma 2022 - IBAPE-PR, é composta por 12
 professores do ITA, todos com titulação de doutor e atuantes em disciplinas de
@@ -195,7 +197,7 @@ Conhecer os docentes do programa é indicado para poderem escolher o orientador
 do TCC. Mais informações sobre os docentes pode ser encontrada na [página
 principal do CEDS](https://www.ceds.ita.br/).
 
-## Diferença entre emails `@ga.ita.br` e `@ita.br`
+### Diferença entre emails `@ga.ita.br` e `@ita.br`
 
 Durante o curso, você terá dois emails: `@ita.br` e `@ga.ita.br`. Toda a sua
 comunicação com a administração, professores, bem como o acesso à plataforma
@@ -205,20 +207,20 @@ O email `@ita.br` é necessário apenas para acesso aos periódicos (artigos
 científicos) através do portal [CAPES
 CAFe](https://www-periodicos-capes-gov-br.ez63.periodicos.capes.gov.br/index.php/acesso-cafe.html).
 
-## Critérios de aproveitamento de disciplina
+### Critérios de aproveitamento de disciplina
 
 O aproveitamento em cada disciplina é condicionado à:
 
 - Nota final mínima de 7,5 (sete e meio);
 - Frequência mínima de 75% das aulas telepresenciais.
 
-## Recuperação
+### Recuperação
 
 Na eventualidade de desempenho ou frequência insuficiente em uma disciplina,
 será oferecida uma tarefa alternativa de recuperação, pelo coordenador, a ser
 realizada, no máximo, em 45 dias corridos.
 
-## Reprovação
+### Reprovação
 
 Na eventualidade de desempenho insuficiente na recuperação, o aluno poderá
 concluir as demais disciplinas, porém não fará jus ao certificado de
@@ -229,7 +231,7 @@ Casos excepcionais, como licenças médicas, serão analisados pela coordenaçã
 e Pró-Reitoria de Pós-Graduação. Não serão concedidas extensões de prazos após
 o encerramento da turma.
 
-## Trabalho de Conclusão de Curso
+### Trabalho de Conclusão de Curso
 
 A apresentação do TCC será realizada apenas pelos alunos com aproveitamento em
 todas as disciplinas, ao final do curso.
@@ -243,28 +245,28 @@ Durante a disciplina CEDS-812 Metodologia de Pesquisa em Computação, os alunos
 deverão entrar em contato com os professores para definir seus orientadores.
 O projeto será desenvolvido ao longo do curso.
 
-## Formatura presencial
+### Formatura presencial
 
 A formatura do CEDS será realizada de forma presencial em cerimônia solene no
 DCTA, com data prevista para dezembro de 2024.
 
-# Atendimento e contatos
+## Atendimento e contatos
 
 Estamos sempre à disposição para atendê-los. Qualquer dúvida entre em contato
 com nossa secretaria.
 
-## Secretaria
+### Secretaria
 
 - Contato: Thaís Ramim
 - Email: [thais.ramim@gt.ita.br](thais.ramim@gt.ita.br)
 - WhatsApp (12) 99799-6099
 
-### Horário de funcionamento
+#### Horário de funcionamento
 
 - Segunda a quinta das 8h às 17h
 - Sexta das 8h às 12h
 
-## Acesso físico ao DCTA
+### Acesso físico ao DCTA
 
 Para acesso físico ao DCTA é necessário apresentar seu QR-CODE. Para
 solicitação, entre em contato com a secretaria.
