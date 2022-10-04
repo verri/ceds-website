@@ -128,7 +128,7 @@ oferecimento pelo IBAPE-PR.
 | Início | Fim | Item |
 | --- | --- | --- |
 | 17/10/2022 | 17/10/2022 | Aula Magna |
-| *a confirmar* | *a confirmar* | Curso da biblioteca |
+| 20/10/2022 | 20/10/2022 | Curso da biblioteca |
 | 24/10/2022 | 16/12/2022 | CEDS-801: Introdução à Ciência de Dados |
 | 23/01/2023 | 17/03/2023 | CEDS-812: Metodologia de Pesquisa em Computação |
 | 20/03/2023 | 12/05/2023 | CEDS-803: Matemática para Dados |
