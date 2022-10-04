@@ -103,7 +103,6 @@ Referências bibliográficas:
 - RUSSEL, S.; Norvig, P. Inteligência Artificial. 3ª edição. Editora Campus, 2013.
 - LUGER, G. F.. Artificial Inteligência Artificial, 6ª edição. Editora Pearson, 2013.
 - FACELI,K.; LORENA,A.C.; GAMA, J.; CARVALHO, A.C.P.L.F (2021) Inteligência Artificial: uma abordagem de Aprendizado de Máquina. 2a Edição,Editora LTC.
-- CRYER, J., and C. KUNG-SIK. Time series analysis: with applications in R. Springer Science & Business Media, 2008.
 
 ## CEDS-807: Aprendizado de Máquina
 
