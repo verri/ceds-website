@@ -1,6 +1,6 @@
 ---
 title: Guia
-date: '2022-10-03'
+date: '2022-10-06'
 type: book
 weight: 30
 ---
@@ -132,12 +132,12 @@ oferecimento pelo IBAPE-PR.
 | 24/10/2022 | 16/12/2022 | CEDS-801: Introdução à Ciência de Dados |
 | 23/01/2023 | 17/03/2023 | CEDS-812: Metodologia de Pesquisa em Computação |
 | 20/03/2023 | 12/05/2023 | CEDS-803: Matemática para Dados |
-| 15/05/2023 | 30/06/2023 | CEDS-804: Probabilidade e Estatística |
-| 17/07/2023 | 08/09/2023 | CEDS-805: Análise de Regressão |
-| 11/09/2023 | 27/10/2023 | CEDS-802: Banco de Dados |
-| 30/10/2023 | 15/12/2023 | CEDS-806: Inteligência Artificial |
-| 22/01/2024 | 08/03/2024 | CEDS-807: Aprendizado de Máquina |
-| 11/03/2024 | 26/04/2024 | CEDS-808: Deep Learning |
+| 15/05/2023 | 30/06/2023 | CEDS-802: Probabilidade e Estatística |
+| 17/07/2023 | 08/09/2023 | CEDS-804: Banco de Dados |
+| 11/09/2023 | 27/10/2023 | CEDS-805: Análise de Regressão |
+| 30/10/2023 | 15/12/2023 | CEDS-807: Inteligência Artificial |
+| 22/01/2024 | 08/03/2024 | CEDS-808: Aprendizado de Máquina |
+| 11/03/2024 | 26/04/2024 | CEDS-809: Deep Learning |
 | 29/04/2024 | 14/06/2024 | CEDS-810: Análise em Big Data |
 | 17/06/2024 | 11/08/2024 | Conclusão do TCC |
 | 14/08/2024 | 17/08/2024 | Defesa - Apresentação dos trabalhos |
