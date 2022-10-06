@@ -31,7 +31,7 @@ Referências bibliográficas:
 - SAMPIERI, R. H. et al., Metodologia de Pesquisa. McGraw Hill, 2017.
 - LAKATOS, E. M., MARCONI, M. A., Metodologia do Trabalho Científico. Atlas, 2021.
 
-## CEDS-802: Banco de Dados
+## CEDS-804: Banco de Dados
 
 Ementa: Introdução a Banco de Dados, Modelagem Conceitual, Modelagem Relacional, SQL Básico, SQL Avançado, DDL e DML, Linguagem Procedural, Business Intelligence, Data Warehouse, Modelagem Dimensional, Transformação Modelo Transacional – Dimensional, Projeto.
 
@@ -39,7 +39,7 @@ Referências bibliográficas:
 - SILBERSCHATZ, A.; KORTH, H.; SUDARSHAN, S. Sistemas de banco de dados. 6. ed. Rio de Janeiro: Elsevier, 2012.
 - Kimball, R.; Ross, M. The Data Warehouse Toolkit: The Deﬁnitive Guide to Dimensional Modeling. 3rd Edition, John Wiley & Sons. 2013.
 
-## CEDS-804: Probabilidade e Estatística
+## CEDS-802: Probabilidade e Estatística
 
 Ementa: Conceitos clássico e frequentista de probabilidade. Probabilidade
 condicional e independência de eventos. Teoremas de Bayes e da probabilidade
@@ -91,7 +91,7 @@ Referências bibliográficas:
 - FARAWAY, J. J. Linear models with R. London: Chapman & Hall/CRC, 2004.
 - MONTGOMERY, D.C.; PECK, E.A.; VINING, V.V. Introduction to Linear Regression Analysis, 6th Edition, Wiley, 2021.
 
-## CEDS-806: Inteligência Artificial
+## CEDS-807: Inteligência Artificial
 
 Ementa: História da Inteligência Artificial (IA). Caracterização dos problemas
 de IA, aplicações (p.ex., jogos, robótica, Processamento de Linguagem Natural,
@@ -104,7 +104,7 @@ Referências bibliográficas:
 - LUGER, G. F.. Artificial Inteligência Artificial, 6ª edição. Editora Pearson, 2013.
 - FACELI,K.; LORENA,A.C.; GAMA, J.; CARVALHO, A.C.P.L.F (2021) Inteligência Artificial: uma abordagem de Aprendizado de Máquina. 2a Edição,Editora LTC.
 
-## CEDS-807: Aprendizado de Máquina
+## CEDS-808: Aprendizado de Máquina
 
 Ementa: Análise exploratória de dados: Estatísticas descritivas, Visualização multivariada. Pré-processamentos de dados: Limpeza, Redução dimensional, Transformações. Aprendizado preditivo: K-vizinhos mais próximos, Árvores de decisão,, Introdução a Redes Neurais Artificiais. Máquinas de Vetores de Suporte. Aprendizado descritivo: K-médias, Algoritmos hierárquicos, Regras de Associação.
 
@@ -114,7 +114,7 @@ Referências bibliográficas:
 - JAMES,G.; WITTEN,D.; HASTIE,T.; TIBSHIRANI,R.(2013). An introduction to statistical learning. New York: Springer.
 - ALPAYDIN,E.(2014). Introduction to machine learning. MITpress.
 
-## CEDS-808: Deep Learning
+## CEDS-809: Deep Learning
 
 Ementa: Redes Neurais Artificiais: Neurônios, Arquitetura e Aprendizado.
 Funções de Ativação. Otimização por Gradiente. Perceptron Multicamadas.
