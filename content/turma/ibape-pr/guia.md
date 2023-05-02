@@ -180,18 +180,21 @@ O corpo docente da oferta CEDS Turma 2022 - IBAPE-PR, é composta por 12
 professores do ITA, todos com titulação de doutor e atuantes em disciplinas de
 graduação e pós-graduação *stricto sensu*.
 
-- [Carlos Ribeiro](http://lattes.cnpq.br/3754241050455395)
 - [Carlos Forster](http://lattes.cnpq.br/5048063262801476)
+- [Carlos Ribeiro](http://lattes.cnpq.br/3754241050455395)
 - [Denise Ferrari](http://lattes.cnpq.br/2386080698503541)
+- [Elcio Shiguemori](http://lattes.cnpq.br/7243145638158319)
 - [Elton Sbruzzi](http://lattes.cnpq.br/0026358605322965)
 - [Emilia Colonese](http://lattes.cnpq.br/3348446367408819)
 - [Filipe Verri](http://lattes.cnpq.br/0145582312635382)
+- [Johnny Marques](http://lattes.cnpq.br/6831514861193749)
 - [Marcos Máximo](http://lattes.cnpq.br/1610878342077626)
+- [Mariá Nascimento](http://lattes.cnpq.br/1010810293243435)
 - [Mauri Aparecido](http://lattes.cnpq.br/4663153865292835)
+- [Michel Leles](http://lattes.cnpq.br/5512914843540140)
 - [Paulo André](http://lattes.cnpq.br/2137986175572481)
 - [Rodrigo Scarpel](http://lattes.cnpq.br/1846780590444477)
 - [Vitor Curtis](http://lattes.cnpq.br/1785341067396776)
-- [Johnny Marques](http://lattes.cnpq.br/6831514861193749)
 
 Conhecer os docentes do programa é indicado para poderem escolher o orientador
 do TCC. Mais informações sobre os docentes pode ser encontrada na [página
