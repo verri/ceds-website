@@ -14,6 +14,6 @@ de Aeronáutica (ITA) e o Instituto Brasileiro de Avaliações e Perícias de
 Engenharia do Paraná (IBAPE-PR) oferecem o **Curso de
 Especialização em Data Science (CEDS)** pela segunda vez aberto ao público geral.
 
-Esta oferta do CEDS pelo IBAPE-PR possui 40 vagas, sendo que **2 serão oferecidas como bolsas integrais** para os melhores colocados no processo seletivo. Para maiores informações sobre as condições das bolsas, por favor, consulte diretamente o IBAPE-PR em [link](https://www.ibapepr.org.br/).
+Esta oferta do CEDS pelo IBAPE-PR possui 40 vagas, sendo que **2 serão oferecidas como bolsas integrais**. Para maiores informações sobre as vagas e as condições das bolsas, por favor, consulte diretamente o [IBAPE-PR](https://www.ibapepr.org.br/curso/24/especializacao-em-data-science-ita).
 
 Faça já sua inscrição no [processo seletivo](/turma/ibape-pr2/selecao/)!
