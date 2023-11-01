@@ -11,7 +11,8 @@ O processo seletivo do CEDS visa dois focos principais: primeiro, para garantirm
 O processo consiste em duas etapas: a primeira envolve uma análise técnica, com prova sobre conhecimentos básicos, de caráter eliminatório, análise curricular e, em alguns casos, entrevista; a segunda é a aprovação pelo IBAPE-PR, que pode envolver análise curricular e financeira. Apenas os candidatos aprovados por ambas as fases que poderão se matricular no CEDS. O processo seletivo é gratuito e será realizado de forma totalmente remota.
 
 Prazo de inscrição do processo seletivo: **01/11/2023 à 30/11/2023**
-Inscrição: **(em breve)**.
+
+Inscrição: **https://forms.gle/npqS4sBT4x4bHYzC9**
 
 ## Prova
 
