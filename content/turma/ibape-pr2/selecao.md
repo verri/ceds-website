@@ -27,6 +27,6 @@ Informações sobre a prova:
 - Prevista para **11/12/2023 às 19h00**.
 - Durante toda a prova, é exigido que permaneça com a câmera ligada. Logo é necessário Internet e câmera.
 
-## Bolsas e financiamentos
+## Custo, Bolsas e financiamentos
 
-Para maiores informações sobre condições de bolsas e financiamento, por favor, consulte diretamente o IBAPE-PR em [link](https://www.ibapepr.org.br/).
+Para maiores informações sobre custos e condições de bolsas e financiamento, por favor, consulte diretamente o IBAPE-PR em [link](https://www.ibapepr.org.br/).

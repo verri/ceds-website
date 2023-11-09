@@ -44,3 +44,8 @@ weight: 40
   o vínculo formal, incluindo questões financeiras e fiscal é de responsabilidade
   do IBAPE-PR.
 {{< /spoiler >}}
+
+{{< spoiler text="Como será o critério de seleção das bolsas?" >}}
+  O IBAPE-PR é quem oferece o curso ao público e, portanto, é responsável pela oferta
+  e seleção dos candidatos, incluindo as bolsas.
+{{< /spoiler >}}
