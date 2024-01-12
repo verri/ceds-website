@@ -98,6 +98,12 @@ acadêmico e qualidade dos cursos do ITA, com objetivo de formar recursos
 humanos na área de Ciência de Dados para resolverem desafios reais por meio de
 técnicas do estado da arte.
 
+Basicamente o curso é composto por um ciclo básico de 6 disciplinas fundamentais,
+seguida por 3 disciplinas especializadas em aprendizado de máquina e finaliza com
+uma disciplina de apoio sobre metodologia científica. Esta organização focada em
+fundamentos está de acordo com os princípios do ITA de formar alunos com forte base
+teórica os permitindo independência acadêmica após a conclusão do curso.
+
 Os alunos formados pelo CEDS são considerados potencias candidatos para os
 Programas de Pós-Graduação (PPG) acadêmicos de mestrado e doutorado do ITA.
 Desta forma, incentivamos os interessados que conheçam nossos programas:

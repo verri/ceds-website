@@ -30,3 +30,96 @@ Informações sobre a prova:
 ## Custo, Bolsas e financiamentos
 
 Para maiores informações sobre custos e condições de bolsas e financiamento, por favor, consulte diretamente o IBAPE-PR em [link](https://www.ibapepr.org.br/).
+
+## Aprovados
+
+O Instituto Brasileiro de Avaliações e Perícias de Engenharia do Paraná - IBAPE-PR em parceria com o Instituto Tecnológico de Aeronáutica – ITA, divulga o resultado do processo de seleção para as vagas do Curso de Pós Graduação com previsão de início entre fevereiro e março de 2024:
+
+### Bolsistas
+
+- Bruno Raphaell Alves de Matos
+- Nicholas Yukio Menezes Sugimoto
+
+### Classificação geral
+
+- Alexandre De Souza Da Silva
+- Anderson Gomes Rosa
+- Andreza Alves de Oliveira
+- Bruno Raphaell Alves de Matos
+- Caio Tertuliano Ribeiro
+- Daniel Oliveira de Brito
+- Danilo Alves Araujo
+- Davi Guanabara de Aragão
+- Diego Pereira de Lima
+- Eduardo Ferreira Penteado
+- Eric Moreira Bomfim
+- Everton Belarmino da Silva
+- Fabio Vieira da Rocha
+- Felipe Augusto Guedes da Silva
+- Gabriel Ribeiro Gomes
+- Guilherme Camargo  Matos de Paula
+- Guilherme Rodrigues Medeiros E. Furquim
+- Gustavo Vinícius da Silva
+- João Guilherme Toscan Chaicoski
+- João Paulo Lopes da Silva Polotto
+- Jorge Kennedy Silva de Oliveira
+- Leonardo Mazzamboni Colssi
+- Lucas Cagnotto de Moraes
+- Mara Lucia Fernandes Cerqueira
+- Mariana Viola
+- Matheus de Souza Batista Lacerda
+- Matheus Henrique Calegari Evangelista
+- Nicholas Yukio Menezes Sugimoto
+- Rafael Castro Matucheski
+- Rafael Ferreira Almeida
+- Rafael Judar Vicchini
+- Raphael Rodrigues Coelho
+- Renato César Ribas Peres
+- Renato Vinícius Turtienski Possa
+- Rennan Dalla Guimarães
+- Robson Venturin
+- Tatiana Grasiele Souza de Oliveira
+- Victor Silva Tona de Abranches
+- Vinicius Hiroshi Sato
+- Willian Fernandes Marafanti
+
+Os candidatos classificados na lista acima deverão efetuar a matrícula entre os dias 12/01/2024 e 19/01/2024 via email: ibapepr@ibapepr.org.br
+
+Caso seu nome não esteja nesta lista, informamos que poderão ser realizadas novas chamadas para possíveis vagas disponíveis para esta turma.
+Também poderão ser chamados candidatos, para novas turmas a serem abertas futuramente.
+Agradecemos a participação de todos.
+
+### Matrícula
+
+A pedido do IBAPE-PR, copiamos abaixo as informações para realização da matrícula no CEDS pelo IBAPE-PR.
+Após a matrícula no IBAPE-PR, a secretaria do ITA entrará em contato com os matriculados efetivando sua inscrição também como
+alunos do ITA no curso CEDS, podendo eventualmente solicitar informações cadastrais adicionais.
+
+Os seguintes documentos originais digitalizados são necessários para a matrícula:
+
+1. Identidade e/ou Passaporte;
+2. CPF
+3. Diploma da Graduação
+4. Histórico Escolar da Graduação
+5. Certidão de Nascimento ou Casamento
+6. Foto 3x4
+
+Perderá direito à matrícula o candidato convocado que não apresentar a documentação solicitada, ou, por qualquer motivo, não realizar a matrícula nas datas e horários previstos neste edital de convocação.
+A concretização da matrícula está vinculada à apresentação dos documentos relacionados acima, e ao pagamento da primeira parcela da mensalidade referente ao curso.
+
+Formas de pagamento disponíveis:
+
+- À VISTA - 8% de desconto
+  - Associados IBAPE's: R$ 50.774,80 e
+  - Não associados: R$ 55.006,80
+
+- PARCELADO pelo IBAPE-PR
+  - Entrada: R$8.500,00 (oito mil e quinhentos reais) + 23 parcelas:
+  - Associados IBAPE´s: 23 x R$2.030,00 para pagamento até o vencimento
+  - Não associados: 23 x R$2.230,00 para pagamento até o vencimento
+
+- FINANCIAMENTO (Para ENGENHEIROS que são associados da Mútua e que tenham cumprido 01 ano de carência. Os que não forem associados, podem associar-se e pedir o financiamento na metade do curso, após os 12 meses da carência)
+
+- FINANCIAMENTO ESTUDANTIL fica a escolha de cada candidato na instituição financeira que desejar.
+
+Para mais informações, por favor, entre em contato diretamente com o IBAPE-PR.
