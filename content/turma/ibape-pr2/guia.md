@@ -190,6 +190,7 @@ doutor e atuantes em disciplinas de graduação e pós-graduação *stricto sens
 - [Emilia Colonese](http://lattes.cnpq.br/3348446367408819)
 - [Filipe Verri](http://lattes.cnpq.br/0145582312635382)
 - [Johnny Marques](http://lattes.cnpq.br/6831514861193749)
+- [Lilian Berton](http://lattes.cnpq.br/9064767888093340)
 - [Marcos Máximo](http://lattes.cnpq.br/1610878342077626)
 - [Mariá Nascimento](http://lattes.cnpq.br/1010810293243435)
 - [Mauri Aparecido](http://lattes.cnpq.br/4663153865292835)
