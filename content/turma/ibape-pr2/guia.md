@@ -179,7 +179,7 @@ na primeira aula.
 
 ### Corpo docente
 
-O corpo docente é composto por 12 professores do ITA, todos com titulação de
+O corpo docente é composto por professores do ITA ou profissionais de excelência convidados para atuar no ITA, todos com titulação de
 doutor e atuantes em disciplinas de graduação e pós-graduação *stricto sensu*.
 
 - [Carlos Forster](http://lattes.cnpq.br/5048063262801476)
