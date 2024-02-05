@@ -10,9 +10,19 @@ O processo seletivo do CEDS visa dois focos principais: primeiro, para garantirm
 
 O processo consiste em duas etapas: a primeira envolve uma análise técnica, com prova sobre conhecimentos básicos, de caráter eliminatório, análise curricular e, em alguns casos, entrevista; a segunda é a aprovação pelo IBAPE-PR, que pode envolver análise curricular e financeira. Apenas os candidatos aprovados por ambas as fases que poderão se matricular no CEDS. O processo seletivo é gratuito e será realizado de forma totalmente remota.
 
-Prazo de inscrição do processo seletivo: **01/11/2023 à 30/11/2023**
+### Primeira chamada
 
-Inscrição: **https://forms.gle/npqS4sBT4x4bHYzC9**
+~~Prazo de inscrição do processo seletivo: **01/11/2023 à 30/11/2023**~~
+
+~~Inscrição: **https://forms.gle/npqS4sBT4x4bHYzC9**~~
+
+### Segunda chamada
+
+Para preenchimento de algumas vagas remanescentes, o IBAPE-PR oferecerá uma segunda chamada. Como não há previsão de uma nova turma em 2024, não perca esta oportunidade caso tenha interesse de inciar o CEDS neste ano.
+
+Prazo de inscrição do processo seletivo: **até 29/02/2024**
+
+Inscrição: **https://forms.gle/mde4BcU41AAXLJ8w5**
 
 ## Prova
 
@@ -24,14 +34,14 @@ A prova consiste em questões básicas à nível de graduação dos seguintes t�
 Informações sobre a prova:
 - Aplicada utilizando as plataformas Google Forms e Meet
 - Possui **duração de até 50 min**
-- Prevista para **11/12/2023 às 19h00**.
+- Prevista para ~~**11/12/2023** (primeira chamada)~~ **04/03/2024** (segunda chamada)  **às 19h00**.
 - Durante toda a prova, é exigido que permaneça com a câmera ligada. Logo é necessário Internet e câmera.
 
 ## Custo, Bolsas e financiamentos
 
 Para maiores informações sobre custos e condições de bolsas e financiamento, por favor, consulte diretamente o IBAPE-PR em [link](https://www.ibapepr.org.br/).
 
-## Aprovados
+## Aprovados na primeira chamada
 
 O Instituto Brasileiro de Avaliações e Perícias de Engenharia do Paraná - IBAPE-PR em parceria com o Instituto Tecnológico de Aeronáutica – ITA, divulga o resultado do processo de seleção para as vagas do Curso de Pós Graduação com previsão de início entre fevereiro e março de 2024:
 
