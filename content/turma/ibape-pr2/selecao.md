@@ -20,9 +20,9 @@ O processo consiste em duas etapas: a primeira envolve uma análise técnica, co
 
 Para preenchimento de algumas vagas remanescentes, o IBAPE-PR oferecerá uma segunda chamada. Como não há previsão de uma nova turma em 2024, não perca esta oportunidade caso tenha interesse de inciar o CEDS neste ano.
 
-Prazo de inscrição do processo seletivo: **até 29/02/2024**
+~~Prazo de inscrição do processo seletivo: **até 29/02/2024**~~
 
-Inscrição: **https://forms.gle/mde4BcU41AAXLJ8w5**
+~~Inscrição: **https://forms.gle/mde4BcU41AAXLJ8w5*~~
 
 ## Prova
 
@@ -34,7 +34,7 @@ A prova consiste em questões básicas à nível de graduação dos seguintes t�
 Informações sobre a prova:
 - Aplicada utilizando as plataformas Google Forms e Meet
 - Possui **duração de até 50 min**
-- Prevista para ~~**11/12/2023** (primeira chamada)~~ **04/03/2024** (segunda chamada)  **às 19h00**.
+- Prevista para ~~**11/12/2023** (primeira chamada)~~ ~~**04/03/2024** (segunda chamada)~~ **às 19h00**.
 - Durante toda a prova, é exigido que permaneça com a câmera ligada. Logo é necessário Internet e câmera.
 
 ## Custo, Bolsas e financiamentos
@@ -43,7 +43,7 @@ Para maiores informações sobre custos e condições de bolsas e financiamento,
 
 ## Aprovados na primeira chamada
 
-O Instituto Brasileiro de Avaliações e Perícias de Engenharia do Paraná - IBAPE-PR em parceria com o Instituto Tecnológico de Aeronáutica – ITA, divulga o resultado do processo de seleção para as vagas do Curso de Pós Graduação com previsão de início entre fevereiro e março de 2024:
+O Instituto Brasileiro de Avaliações e Perícias de Engenharia do Paraná - IBAPE-PR em parceria com o Instituto Tecnológico de Aeronáutica – ITA, divulga o resultado do processo de seleção para as vagas do Curso de Pós Graduação:
 
 ### Bolsistas
 
@@ -98,6 +98,37 @@ Os candidatos classificados na lista acima deverão efetuar a matrícula entre o
 Caso seu nome não esteja nesta lista, informamos que poderão ser realizadas novas chamadas para possíveis vagas disponíveis para esta turma.
 Também poderão ser chamados candidatos, para novas turmas a serem abertas futuramente.
 Agradecemos a participação de todos.
+
+## Aprovados na segunda chamada
+
+- Andreza alves de Oliveira
+- Bernardo Byrro Marques
+- Bruno Raphaell Alves de Matos
+- Caio Tertuliano Ribeiro
+- Daniel Oliveira de Brito
+- Danilo Alves Araujo
+- Diego Pereira de Lima
+- Elias Donizetti Gonçalves
+- Eric Moreira Bomfim
+- Felipe Batista Meirelles
+- Gleice Dias Costa Mioto
+- João Guilherme Toscan Chaicoski
+- João Paulo Lopes da Silva Polotto
+- Jorge Kennedy Silva de Oliveira
+- José G. Salim Neto
+- Leonardo Mazzamboni Colssi
+- Mara Lucia Fernandes Cerqueira
+- Matheus Bueno Figueiredo Lima
+- Matheus Henrique Calegari Evangelista
+- Nicholas Yukio Menezes Sugimoto
+- Rafael Castro Matucheski
+- Rafael Judar Vicchini
+- Raphael Rodrigues Coelho
+- Renato César Ribas Peres
+- Renato Vinícius Turtienski Possa
+- Rennan Dalla Guimarães
+- Vinícius Hiroshi Sato
+- Vitor Vinicius Rodrigues de Matos
 
 ### Matrícula
 

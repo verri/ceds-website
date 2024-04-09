@@ -133,28 +133,30 @@ oferecimento pelo IBAPE-PR.
 
 | Início | Fim | Item |
 | :---: | :---: | :--- |
-| 06/02/2024 | 06/02/2024 | Aula Magna |
-| 07/02/2024 | 07/02/2024 | Curso da biblioteca |
-| 19/02/2024 | 05/04/2024 | CEDS-801: Introdução à Ciência de Dados |
-| 08/04/2024 | 24/05/2024 | CEDS-804: Banco de Dados |
-| 27/05/2024 | 12/07/2024 | CEDS-802: Probabilidade e Estatística |
-| 29/07/2024 | 13/09/2024 | CEDS-803: Matemática para Dados |
-| 16/09/2024 | 01/11/2024 | CEDS-805: Análise de Regressão |
-| 04/11/2024 | 20/12/2024 | CEDS-807: Inteligência Artificial |
-| 17/02/2025 | 04/04/2025 | CEDS-808: Aprendizado de Máquina |
-| 07/04/2025 | 23/05/2025 | CEDS-809: Deep Learning |
-| 26/05/2025 | 11/07/2025 | CEDS-810: Análise em Big Data |
-| 28/07/2025 | 12/09/2025 | CEDS-812: Metodologia de Pesquisa em Computação |
-| 15/09/2025 | 10/10/2025 | Conclusão do TCC |
-| 13/10/2025 | 24/10/2025 | Defesa - Apresentação dos trabalhos |
-| 05/12/2025 | 09/12/2025 | Formatura (1ª semana de dezembro)|
+| a confirmar | a confirmar | Aula Magna |
+| a confirmar | a confirmar | Curso da biblioteca |
+| 05/08/2024 | 20/09/2024 | CEDS-801: Introdução à Ciência de Dados |
+| 23/09/2024 | 08/11/2024 | CEDS-803: Matemática para Dados |
+| 11/11/2024 | 27/12/2024 | CEDS-802: Probabilidade e Estatística |
+
+| 03/02/2025 | 21/03/2025 | CEDS-804: Banco de Dados |
+| 24/03/2025 | 09/05/2025 | CEDS-805: Análise de Regressão |
+| 12/05/2025 | 27/06/2025 | CEDS-807: Inteligência Artificial |
+| 04/08/2025 | 19/09/2025 | CEDS-808: Aprendizado de Máquina |
+| 22/09/2025 | 07/11/2025 | CEDS-809: Deep Learning |
+| 10/11/2025 | 26/12/2025 | CEDS-810: Análise em Big Data |
+
+| 02/02/2026 | 20/03/2026 | CEDS-812: Metodologia de Pesquisa em Computação |
+| 23/03/2026 | 17/04/2026 | Conclusão do TCC |
+| 20/04/2026 | 01/05/2026 | Defesa - Apresentação dos trabalhos |
+| 14/08/2026 | 14/08/2026 | Formatura (previsto) |
 
 Datas relevantes:
 
-- Início das aulas em 19 de janeiro de 2023;
-- Formatura presencial no DCTA será marcada na primeira semana de dezembro de 2025;
-- O período de defesa dos trabalhos será de 13 à 24/10 de 2025;
-- O período de 15/09 à 10/10 é reservado para conclusão da escrita do trabalho;
+- Início das aulas em 05 de agosto de 2024;
+- Formatura presencial no DCTA está marcada para 14/08 de 2026;
+- O período de defesa dos trabalhos será de 20/04 à 01/05 de 2026;
+- O período de 23/03 à 17/04 de 2026 é reservado para conclusão da escrita do trabalho;
 
 *Atenção*: Mudanças no calendário previsto serão informadas por meio dos canais
 oficiais da Coordenação.
