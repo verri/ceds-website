@@ -93,8 +93,6 @@ O Instituto Brasileiro de Avaliações e Perícias de Engenharia do Paraná - IB
 - Vinicius Hiroshi Sato
 - Willian Fernandes Marafanti
 
-Os candidatos classificados na lista acima deverão efetuar a matrícula entre os dias 12/01/2024 e 19/01/2024 via email: ibapepr@ibapepr.org.br
-
 Caso seu nome não esteja nesta lista, informamos que poderão ser realizadas novas chamadas para possíveis vagas disponíveis para esta turma.
 Também poderão ser chamados candidatos, para novas turmas a serem abertas futuramente.
 Agradecemos a participação de todos.
@@ -131,6 +129,11 @@ Agradecemos a participação de todos.
 - Vitor Vinicius Rodrigues de Matos
 
 ### Matrícula
+
+
+Os candidatos classificados nas listas acima deverão efetuar a matrícula até 30/04/2024 via email: ibapepr@ibapepr.org.br
+
+
 
 A pedido do IBAPE-PR, copiamos abaixo as informações para realização da matrícula no CEDS pelo IBAPE-PR.
 Após a matrícula no IBAPE-PR, a secretaria do ITA entrará em contato com os matriculados efetivando sua inscrição também como
