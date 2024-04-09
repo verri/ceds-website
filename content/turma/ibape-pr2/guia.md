@@ -138,14 +138,12 @@ oferecimento pelo IBAPE-PR.
 | 05/08/2024 | 20/09/2024 | CEDS-801: Introdução à Ciência de Dados |
 | 23/09/2024 | 08/11/2024 | CEDS-803: Matemática para Dados |
 | 11/11/2024 | 27/12/2024 | CEDS-802: Probabilidade e Estatística |
-
 | 03/02/2025 | 21/03/2025 | CEDS-804: Banco de Dados |
 | 24/03/2025 | 09/05/2025 | CEDS-805: Análise de Regressão |
 | 12/05/2025 | 27/06/2025 | CEDS-807: Inteligência Artificial |
 | 04/08/2025 | 19/09/2025 | CEDS-808: Aprendizado de Máquina |
 | 22/09/2025 | 07/11/2025 | CEDS-809: Deep Learning |
 | 10/11/2025 | 26/12/2025 | CEDS-810: Análise em Big Data |
-
 | 02/02/2026 | 20/03/2026 | CEDS-812: Metodologia de Pesquisa em Computação |
 | 23/03/2026 | 17/04/2026 | Conclusão do TCC |
 | 20/04/2026 | 01/05/2026 | Defesa - Apresentação dos trabalhos |
