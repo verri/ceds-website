@@ -136,9 +136,9 @@ oferecimento pelo IBAPE-PR.
 | a confirmar | a confirmar | Aula Magna |
 | a confirmar | a confirmar | Curso da biblioteca |
 | 05/08/2024 | 20/09/2024 | CEDS-801: Introdução à Ciência de Dados |
-| 23/09/2024 | 08/11/2024 | CEDS-803: Matemática para Dados |
+| 23/09/2024 | 08/11/2024 | CEDS-804: Banco de Dados |
 | 11/11/2024 | 27/12/2024 | CEDS-802: Probabilidade e Estatística |
-| 03/02/2025 | 21/03/2025 | CEDS-804: Banco de Dados |
+| 03/02/2025 | 21/03/2025 | CEDS-803: Matemática para Dados |
 | 24/03/2025 | 09/05/2025 | CEDS-805: Análise de Regressão |
 | 12/05/2025 | 27/06/2025 | CEDS-807: Inteligência Artificial |
 | 04/08/2025 | 19/09/2025 | CEDS-808: Aprendizado de Máquina |
