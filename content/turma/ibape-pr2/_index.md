@@ -17,4 +17,4 @@ Especialização em Data Science (CEDS)** pela segunda vez aberto ao público ge
 Esta oferta do CEDS pelo IBAPE-PR possui 40 vagas, sendo algumas das vagas oferecidas como **bolsas de estudos**.
 Para maiores informações sobre custos da especialização e as condições das bolsas de estudo, por favor, consulte diretamente o [IBAPE-PR](https://www.ibapepr.org.br/curso/24/especializacao-em-data-science-ita).
 
-Última chamada antes do início das aulas: [última chamada](turma/ibape-pr2/ultima_chamada).
+Última chamada antes do início das aulas: [última chamada](/turma/ibape-pr2/ultima_chamada).
