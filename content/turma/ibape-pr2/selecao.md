@@ -22,7 +22,7 @@ Para preenchimento de algumas vagas remanescentes, o IBAPE-PR oferecerá uma seg
 
 ~~Prazo de inscrição do processo seletivo: **até 29/02/2024**~~
 
-~~Inscrição: **https://forms.gle/mde4BcU41AAXLJ8w5*~~
+~~Inscrição: **https://forms.gle/mde4BcU41AAXLJ8w5**~~
 
 ## Prova
 
