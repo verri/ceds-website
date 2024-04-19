@@ -1,28 +1,19 @@
 ---
-title: Processo seletivo
+title: Primeira chamada
 date: '2023-10-20'
 type: book
-weight: 5
+weight: 3
 ---
-
-O processo seletivo do CEDS visa dois focos principais: primeiro, para garantirmos que o aluno tenha capacidade de concluir o curso com sucesso; e segundo, para selecionarmos os melhores candidatos, preservando a tradicional qualidade do ITA.
-
-
-O processo consiste em duas etapas: a primeira envolve uma análise técnica, com prova sobre conhecimentos básicos, de caráter eliminatório, análise curricular e, em alguns casos, entrevista; a segunda é a aprovação pelo IBAPE-PR, que pode envolver análise curricular e financeira. Apenas os candidatos aprovados por ambas as fases que poderão se matricular no CEDS. O processo seletivo é gratuito e será realizado de forma totalmente remota.
-
-### Primeira chamada
 
 ~~Prazo de inscrição do processo seletivo: **01/11/2023 à 30/11/2023**~~
 
 ~~Inscrição: **https://forms.gle/npqS4sBT4x4bHYzC9**~~
 
-### Segunda chamada
+## Processo seletivo
 
-Para preenchimento de algumas vagas remanescentes, o IBAPE-PR oferecerá uma segunda chamada. Como não há previsão de uma nova turma em 2024, não perca esta oportunidade caso tenha interesse de inciar o CEDS neste ano.
+O processo seletivo do CEDS visa dois focos principais: primeiro, para garantirmos que o aluno tenha capacidade de concluir o curso com sucesso; e segundo, para selecionarmos os melhores candidatos, preservando a tradicional qualidade do ITA.
 
-~~Prazo de inscrição do processo seletivo: **até 29/02/2024**~~
-
-~~Inscrição: **https://forms.gle/mde4BcU41AAXLJ8w5**~~
+O processo consiste em duas etapas: a primeira envolve uma análise técnica, com prova sobre conhecimentos básicos, de caráter eliminatório, análise curricular e, em alguns casos, entrevista; a segunda é a aprovação pelo IBAPE-PR, que pode envolver análise curricular e financeira. Apenas os candidatos aprovados por ambas as fases que poderão se matricular no CEDS. O processo seletivo é gratuito e será realizado de forma totalmente remota.
 
 ## Prova
 
@@ -34,7 +25,7 @@ A prova consiste em questões básicas à nível de graduação dos seguintes t�
 Informações sobre a prova:
 - Aplicada utilizando as plataformas Google Forms e Meet
 - Possui **duração de até 50 min**
-- Prevista para ~~**11/12/2023** (primeira chamada)~~ ~~**04/03/2024** (segunda chamada)~~ **às 19h00**.
+- Prevista para **11/12/2023**
 - Durante toda a prova, é exigido que permaneça com a câmera ligada. Logo é necessário Internet e câmera.
 
 ## Custo, Bolsas e financiamentos
@@ -97,43 +88,9 @@ Caso seu nome não esteja nesta lista, informamos que poderão ser realizadas no
 Também poderão ser chamados candidatos, para novas turmas a serem abertas futuramente.
 Agradecemos a participação de todos.
 
-## Aprovados na segunda chamada
-
-- Andreza alves de Oliveira
-- Bernardo Byrro Marques
-- Bruno Raphaell Alves de Matos
-- Caio Tertuliano Ribeiro
-- Daniel Oliveira de Brito
-- Danilo Alves Araujo
-- Diego Pereira de Lima
-- Elias Donizetti Gonçalves
-- Eric Moreira Bomfim
-- Felipe Batista Meirelles
-- Gleice Dias Costa Mioto
-- João Guilherme Toscan Chaicoski
-- João Paulo Lopes da Silva Polotto
-- Jorge Kennedy Silva de Oliveira
-- José G. Salim Neto
-- Leonardo Mazzamboni Colssi
-- Mara Lucia Fernandes Cerqueira
-- Matheus Bueno Figueiredo Lima
-- Matheus Henrique Calegari Evangelista
-- Nicholas Yukio Menezes Sugimoto
-- Rafael Castro Matucheski
-- Rafael Judar Vicchini
-- Raphael Rodrigues Coelho
-- Renato César Ribas Peres
-- Renato Vinícius Turtienski Possa
-- Rennan Dalla Guimarães
-- Vinícius Hiroshi Sato
-- Vitor Vinicius Rodrigues de Matos
-
 ### Matrícula
 
-
 Os candidatos classificados nas listas acima deverão efetuar a matrícula até 30/04/2024 via email: ibapepr@ibapepr.org.br
-
-
 
 A pedido do IBAPE-PR, copiamos abaixo as informações para realização da matrícula no CEDS pelo IBAPE-PR.
 Após a matrícula no IBAPE-PR, a secretaria do ITA entrará em contato com os matriculados efetivando sua inscrição também como
