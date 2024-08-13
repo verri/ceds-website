@@ -226,6 +226,13 @@ Na eventualidade de desempenho ou frequência insuficiente em uma disciplina,
 será oferecida uma tarefa alternativa de recuperação, pelo coordenador, a ser
 realizada, no máximo, em 45 dias corridos.
 
+#### Abono de faltas
+
+As faltas somente serão abonadas em casos excepcionais justificados. O aluno
+possui um prazo de até 7 dias após a falta para solicitar o abono.
+
+Em casos de saúde, será necessário enviar o atestado para a coordenação.
+
 ### Reprovação
 
 Na eventualidade de desempenho insuficiente na recuperação, o aluno poderá
