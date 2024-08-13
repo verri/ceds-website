@@ -8,5 +8,6 @@ sync:
 
 docker: docker_build sync
 
+# Veja: https://github.com/peaceiris/hugo-extended-docker
 docker_build:
 	docker compose run --rm hugo ""
