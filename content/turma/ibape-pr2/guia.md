@@ -244,6 +244,12 @@ Casos excepcionais, como licenças médicas, serão analisados pela coordenaçã
 e Pró-Reitoria de Pós-Graduação. Não serão concedidas extensões de prazos após
 o encerramento da turma.
 
+De acordo com nossa norma reguladora para os cursos de pós-graduação Lato Sensu, ICA 37-695 de 2016, o aluno reprovado em disciplina pode matricular-se novamente nessa mesma disciplina, por uma única vez, desde que oferecida nova turma do mesmo curso. Nesse caso, o aluno possui um prazo de 3 anos a contar do início do curso para conclusão.
+
+O candidato, que tiver TCC reprovado, pode apresentar uma única vez o TCC no prazo máximo de seis meses.
+
+O valor de nova realização da disciplina depende do custo da oferta da turma e, portanto, deve ser solicitado na ocasião. A remarcação do TCC implica em um valor diferenciado por envolver a participação de membros externos.
+
 ### Trabalho de Conclusão de Curso
 
 A apresentação do TCC será realizada apenas pelos alunos com aproveitamento em
