@@ -182,6 +182,7 @@ na primeira aula.
 O corpo docente é composto por professores do ITA ou profissionais de excelência convidados para atuar no ITA, todos com titulação de
 doutor e atuantes em disciplinas de graduação e pós-graduação *stricto sensu*.
 
+- [Ana Lorena](http://lattes.cnpq.br/3451628262694747)
 - [Carlos Forster](http://lattes.cnpq.br/5048063262801476)
 - [Carlos Ribeiro](http://lattes.cnpq.br/3754241050455395)
 - [Denise Ferrari](http://lattes.cnpq.br/2386080698503541)
