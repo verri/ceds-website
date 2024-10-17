@@ -161,12 +161,18 @@ oficiais da Coordenação.
 
 ### Horário reservado
 
-Aulas semanais do CEDS são oferecidas no modelo telepresencial em tempo real,
-duas vezes por semana, das 19h às 22h (horário de Brasília - UTC-3), podendo
-variar os dias, conforme disciplina, de segunda a quinta-feira.
+Aulas semanais do CEDS são oferecidas no modelo telepresencial em tempo real, e
+ocorrem dentro do intervalo de segunda a quinta-feira, das 19h às 22h (horário de
+Brasília - UTC-3), podendo variar os dias e forma.
 
-Palestras e reuniões eventuais serão sempre marcado dentro deste período. Deste
-modo, reserve este período em sua agenda.
+Antes do início de cada disciplina, o aluno receberá o calendário preliminar das
+aulas que tipicamente são duas vezes por semana, cada uma com duração de 3 horas-aula.
+Contudo, o professor pode optar por outras configurações como, por exemplo, 3 aulas
+na semana, 2 horas-aula por dia.
+
+É solicitado aluno que reserve essa janela de segunda à quinta-feira, das 19h às 22h
+para eventualidades. Palestras e reuniões eventuais serão sempre marcado dentro deste
+período. Deste modo, não esqueça de reservar este período em sua agenda.
 
 ### Monitores
 
